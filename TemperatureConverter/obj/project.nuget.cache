@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VP5uK3or7iUMKFM4vO9zA6VfoTbLZazMliRV0Rk7T/RgXPeoZcSV5heITskl5HbzHV4vfiZ/Lyya1VyYweDdFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sd377186\\source\\repos\\CSharpe\\TemperatureConverter\\TemperatureConverter\\TemperatureConverter.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://proget/nuget/SDWorxNuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
